@@ -7,3 +7,10 @@ func Ping1(msg string) string {
 		return msg
 	}
 }
+func Ping2(msg string) string {
+	if msg == "ping2" {
+		return "pong2"
+	} else {
+		return msg
+	}
+}
