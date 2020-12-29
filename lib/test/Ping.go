@@ -14,3 +14,10 @@ func Ping2(msg string) string {
 		return msg
 	}
 }
+func Ping3(msg string) string {
+	if msg == "ping3" {
+		return "pong3"
+	} else {
+		return msg
+	}
+}
