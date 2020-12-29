@@ -1,0 +1,1 @@
+module "github.com/ame-lm/lmoj/usr_service"
